@@ -1,0 +1,6 @@
+framework module Pods_mu_origin_2_calc {
+  umbrella header "Pods-mu origin 2 calc-umbrella.h"
+
+  export *
+  module * { export * }
+}
